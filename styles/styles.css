@@ -1,0 +1,47 @@
+#header {
+    background-image: url('https://as01.epimg.net/meristation/imagenes/2021/06/08/noticias/1623152397_910053_1623152446_noticia_normal.jpg');
+    background-repeat: no-repeat;
+    width: 88%;
+    height: 30rem;
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: auto;
+    position: absolute;
+    margin-left: 4rem;
+    border-radius: 8px;
+    border-style: double;
+}
+
+#header p {
+    position: absolute;
+    top: 40%;
+    left: 60px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Koulen';
+}
+
+#header #parrafo2 {
+    position: absolute;
+    top: 50%;
+}
+
+#header button {
+    position: absolute;
+    top: 70%;
+    margin-left: 5rem;
+    background-color: #3c0ceb;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+body {
+    background: rgba(5, 192, 206, 0.952);
+}
